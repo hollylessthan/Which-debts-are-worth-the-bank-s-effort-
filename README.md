@@ -14,7 +14,7 @@ First, I explored the data, and found that the bank has different recovery strat
 
 Then, I inspected that if other factors such as ages and genders affect the actual recovery amount, by visualzing using scatter plots and conducting Kruskal-Wallis test and chi-square test.
 
-Last but not least, I build a regression model to test whether the expected recovery amount (X) and the actual recovery amount (y) are correlated. I also added a threshold to see whether the $50 is approariate for running per higher strategy.
+Last but not least, I built a regression model to test whether the expected recovery amount (X) and the actual recovery amount (y) are correlated. I also added a threshold to see whether the $50 is approariate for running per higher strategy.
 
 || Project Resources & Data
 
